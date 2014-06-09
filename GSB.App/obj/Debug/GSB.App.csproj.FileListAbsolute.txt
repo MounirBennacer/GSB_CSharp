@@ -1,0 +1,9 @@
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\obj\Debug\GSB.App.csprojResolveAssemblyReference.cache
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\obj\Debug\GSB.App.Dashboard.resources
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\obj\Debug\GSB.App.Properties.Resources.resources
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\obj\Debug\GSB.App.Views.Login.resources
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\obj\Debug\GSB.App.csproj.GenerateResource.Cache
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\bin\Debug\GSB.App.exe
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\bin\Debug\GSB.App.pdb
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\obj\Debug\GSB.App.exe
+c:\users\solarius\documents\visual studio 2013\Projects\GSB.App\GSB.App\obj\Debug\GSB.App.pdb
